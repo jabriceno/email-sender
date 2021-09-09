@@ -68,7 +68,7 @@ http://localhost:4000/api/email/send
 | receiptName  | Name of receipt                                                      |
 | receiptEmail | Email address of receipt                                             |
 | subject      | Subject of email                                                     |
-| template     | Template for the email ( `hello`, `welcome` or `congrats`_) |
+| template     | Template for the email ( `hello`, `welcome` or `congrats` ) |
 
 * You can import the following call example
 
