@@ -3,6 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/jabriceno/email-sender)
 ![Lines of code](https://img.shields.io/tokei/lines/github/jabriceno/email-sender)
 ![GitHub top language](https://img.shields.io/github/languages/top/jabriceno/email-sender)
+[![DeepScan grade](https://deepscan.io/api/teams/15390/projects/18552/branches/457361/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=15390&pid=18552&bid=457361)
 
 This is an email sender, built with nodemailer. For testing, make sure you have a gmail account, as it will be used as the sender.
 
