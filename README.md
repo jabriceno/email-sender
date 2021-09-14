@@ -64,11 +64,11 @@ http://localhost:4000/api/email/send
 
 - In the body tab, create the _x-www-form-urlencoded_ params
 
-| field        | value                                                                |
-| ------------ | -------------------------------------------------------------------- |
-| receiptName  | Name of receipt                                                      |
-| receiptEmail | Email address of receipt                                             |
-| subject      | Subject of email                                                     |
+| field        | value                                                       |
+| ------------ | ----------------------------------------------------------- |
+| receiptName  | Name of receipt                                             |
+| receiptEmail | Email address of receipt                                    |
+| subject      | Subject of email                                            |
 | template     | Template for the email ( `hello`, `welcome` or `congrats` ) |
 
 - You can import the following call example
